@@ -1,5 +1,5 @@
 
-# This repo created from https://github.com/nestjs/typescript-starter/commit/6b7010ab2dec63ffd2ae32779399244aa340091b on Jul 13, 2022
+## This repo created from [nestjs/typescript-start at commit 6b7010a](https://github.com/nestjs/typescript-starter/tree/6b7010ab2dec63ffd2ae32779399244aa340091b) on Jul 13, 2022
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /><a>
