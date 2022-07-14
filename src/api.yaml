@@ -5,6 +5,16 @@ info:
   version: 1.0.0
 
 paths:
+  /:
+    get:
+      responses:
+        200:
+          description: Returns value
+          content:
+            application/json:
+              schema:
+                type: object
+
   /ping:
     post:
       operationId: pingBody
